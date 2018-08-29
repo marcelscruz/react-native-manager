@@ -18,3 +18,5 @@ yarn-error.log*
 
 # firebase
 /config
+
+.DS_Store
